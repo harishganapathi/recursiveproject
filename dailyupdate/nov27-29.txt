@@ -1,0 +1,3 @@
+Completed Paint application,Implemented including save option.
+From tomorrow will start Python server project.
+
