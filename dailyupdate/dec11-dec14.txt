@@ -1,0 +1,3 @@
+Completed django project
+Started watching django playlist
+started referring other materials for django 
